@@ -1,0 +1,21 @@
+*{
+    font-family: "Playfair Display", serif;
+}
+ .p2{
+    text-decoration: underline;
+ }   
+    .p3{
+        text-transform: uppercase;
+    }
+    .p4{
+        text-shadow: 2px 2px 2px skyblue;
+    }
+    .p5{
+        font-size: medium;
+    }
+    .p6{
+        font-style: initial;
+    }
+    .p7{
+        font-weight: 500;
+    }
